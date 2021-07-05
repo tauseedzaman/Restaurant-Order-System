@@ -21,4 +21,4 @@
 	<img src="/images/demo/admin-pages.png">	
 </ul>
 <br />
-<h1> Completed with <a href="https://github.com/cuchakma/Restaurant-Order-System">Cuhakma</a>
+<h1> Saying thanks to <a href="https://github.com/cuchakma/Restaurant-Order-System">Mr Cuhakma</a>
