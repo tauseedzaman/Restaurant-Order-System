@@ -11,7 +11,7 @@
 	<br>
 	<h2>Screenshots: </h2><br><br>
 	<h5>Front Page </h5><br>
-	<img src="/images/demo/front-pages.png">
+	<img src="/images/demo/Front-pages.png">
 <br/>
 
 <h5>Database tables </h5><br>
