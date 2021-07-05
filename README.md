@@ -11,11 +11,11 @@
 	<br>
 	<h2>Screenshots: </h2><br><br>
 	<h5>Front Page </h5><br>
-	<img src="/images/demo/Front-pages.png">
+	<img src="/images/demo/fron-pages.png">
 <br/>
 
 <h5>Database tables </h5><br>
-	<img src="/images/demo/db-tables.png">
+	<img src="/images/demo/DB-tables.png">
 <br />
 <h5>Admin pages </h5><br>
 	<img src="/images/demo/admin-pages.png">	
